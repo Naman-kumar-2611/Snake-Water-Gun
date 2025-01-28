@@ -1,2 +1,2 @@
-#🐍 Snake-Water-Gun Game
+# Snake-Water-Gun Game
 This is a fun Python implementation of the classic Snake-Water-Gun game, similar to Rock-Paper-Scissors. The rules are simple: Snake drinks Water, Water douses Gun, and Gun shoots Snake. The program uses a dictionary to map the game logic and a file (SNG_Data.txt) to handle persistence, initializing it with 0 if empty. Designed for beginners, this project is a great way to explore Python basics like conditional logic and file handling.
